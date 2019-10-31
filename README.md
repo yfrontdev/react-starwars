@@ -1,2 +1,4 @@
-# react-starwars
-Demo React project
+#To run project in dev mode:
+
+- npm install
+- npm start
